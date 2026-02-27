@@ -17,10 +17,10 @@ First time setup is very simple only:
 
 ```bash
 # Install globally (recommended)
-npm install -g stealthify-js
+npm install -g stealthify
 
 # Or if you want locally in your project
-npm install stealthify-js
+npm install stealthify
 ```
 
 > **Note:** Node.js should be installed already. If not, first go install it from nodejs.org, then come back here.
@@ -29,10 +29,10 @@ npm install stealthify-js
 
 ```bash
 # Basic usage
-stealthify-js input.js -o output.js
+stealthify input.js -o output.js
 
 # With specific options
-stealthify-js input.js -o output.js --strings --rename --numbers
+stealthify input.js -o output.js --strings --rename --numbers
 ```
 
 ## ⚙️ Configuration Options
