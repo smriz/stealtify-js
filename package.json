@@ -1,0 +1,28 @@
+{
+  "name": "stealtify-js",
+  "version": "1.0.0",
+  "description": "JS obfuscator with simple transformation techniques",
+  "main": "src/index.js",
+  "bin": {
+    "stealtify": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node examples/test.js",
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "obfuscator",
+    "javascript",
+    "security",
+    "protection"
+  ],
+  "author": "Mohammed Rizwan S",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.0.0",
+    "shift-codegen": "^8.0.0",
+    "shift-parser": "^8.0.0",
+    "shift-refactor": "^2.0.0"
+  }
+}
