@@ -1,4 +1,4 @@
-# 🔒 JavaScript Obfuscator
+# 🔒 Stealtify
 
 Hey nanba!, your JavaScript code is sitting there completely open for anyone to read and copy. Not anymore! This tool will protect your hard work through multiple transformation techniques. Production-ready and very powerful.
 
